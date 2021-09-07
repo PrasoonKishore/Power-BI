@@ -1,2 +1,2 @@
 # Power-BI
-I develop this Power BI dashboard.
+Sales Analysis of Atliq Hardware in Power BI.
